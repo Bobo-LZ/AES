@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  常见的AES加解密
+//  常用的AES加解密
 //
 //  Created by swxa@sasaliubobo on 17/2/8.
 //  Copyright © 2017年 swxa@saasliubobo. All rights reserved.

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>常见的AES加解密.xcscheme</key>
+		<key>常用的AES加解密.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>920242241E4AB2E60057F00B</key>
+		<key>928E34DD1E4AC1F600878D6C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9202423D1E4AB2E60057F00B</key>
+		<key>928E34F61E4AC1F600878D6C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>920242481E4AB2E60057F00B</key>
+		<key>928E35011E4AC1F600878D6C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

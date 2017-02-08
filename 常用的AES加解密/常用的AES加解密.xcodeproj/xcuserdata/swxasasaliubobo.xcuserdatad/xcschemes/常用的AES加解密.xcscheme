@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "920242241E4AB2E60057F00B"
-               BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
-               BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
-               ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+               BlueprintIdentifier = "928E34DD1E4AC1F600878D6C"
+               BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
+               BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
+               ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9202423D1E4AB2E60057F00B"
-               BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;Tests.xctest"
-               BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;Tests"
-               ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+               BlueprintIdentifier = "928E34F61E4AC1F600878D6C"
+               BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;Tests.xctest"
+               BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;Tests"
+               ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "920242481E4AB2E60057F00B"
-               BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;UITests.xctest"
-               BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;UITests"
-               ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+               BlueprintIdentifier = "928E35011E4AC1F600878D6C"
+               BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;UITests.xctest"
+               BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;UITests"
+               ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "920242241E4AB2E60057F00B"
-            BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
-            BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
-            ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+            BlueprintIdentifier = "928E34DD1E4AC1F600878D6C"
+            BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
+            BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
+            ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "920242241E4AB2E60057F00B"
-            BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
-            BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
-            ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+            BlueprintIdentifier = "928E34DD1E4AC1F600878D6C"
+            BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
+            BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
+            ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "920242241E4AB2E60057F00B"
-            BuildableName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
-            BlueprintName = "&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
-            ReferencedContainer = "container:&#x5e38;&#x89c1;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
+            BlueprintIdentifier = "928E34DD1E4AC1F600878D6C"
+            BuildableName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.app"
+            BlueprintName = "&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;"
+            ReferencedContainer = "container:&#x5e38;&#x7528;&#x7684;AES&#x52a0;&#x89e3;&#x5bc6;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
